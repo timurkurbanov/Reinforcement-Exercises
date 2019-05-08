@@ -18,9 +18,19 @@ fav_movie = {
 three_cities = {
     'Toronto': 3,
     'Oakville': 1,
-    'Bloomfield': 1'
+    'Bloomfield': 1
 }
 name_siblings = {
     'Danile': 7,
-    'Sofia': 5
+    'Sofia': 5,
+    'Evgenia': 35
 }
+
+
+age.append(0)
+
+print(name_siblings)
+print(coin)
+print(fav_colours[0])
+print('Sorted list:', name_siblings)
+print(fav_movie['Titanic'])
