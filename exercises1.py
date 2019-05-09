@@ -27,22 +27,33 @@ name_siblings = {
 }
 
 
-age.append(0)
+# age.append(0)
 
-print(name_siblings)
-print(coin)
-print(fav_colours[0])
-print('Sorted list:', name_siblings)
-print(fav_movie['Titanic'])
+# print(name_siblings)
+# print(coin)
+# print(fav_colours[0])
+# print('Sorted list:', name_siblings)
+# print(fav_movie['Titanic'])
 
-print(fav_colours[-1])
-three_cities.update({'Brampton': 3})
-coin.reverse()
-print(coin)
-print(three_cities['Toronto'])
+# print(fav_colours[-1])
+# three_cities.update({'Brampton': 3})
+# coin.reverse()
+# print(coin)
+# print(three_cities['Toronto'])
 
 
-for name in artist:
-    print(f"I think {name} is great!")
+# for name in artist:
+#     print(f"I think {name} is great!")
+# #3.1
+# print(artist[0])
+# #3.2
+# for pizza, pasta in fav_movie.items():
+#     print(f"{pizza} came out {pasta}")
+# #3.3
+# age.sort(reverse=True)
+# print(age)
 
-    
+# #3.4
+# fav_movie['Beauty and the Beast'] = 1991, 2017 
+# print(fav_movie)
+
